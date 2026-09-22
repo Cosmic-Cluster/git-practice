@@ -1,4 +1,4 @@
 # git-practice
 
-Edited on GitHub
+Edited on my branch and on GitHub to simulate merge conflict
 
